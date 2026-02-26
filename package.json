@@ -1,7 +1,7 @@
 {
   "name": "python-package-manager-pro",
   "displayName": "Python Package Manager VSCode",
-  "description": "Manage and identify unused python packages",
+  "description": "Identify and remove unused Python packages in your VS Code projects with virtual environment support",
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.90.0"
@@ -9,6 +9,21 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "vscode-extension",
+    "python",
+    "package-manager",
+    "pip",
+    "virtual-environment",
+    "requirements",
+    "dependencies",
+    "cleanup",
+    "unused-packages"
+  ],
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=AkeemMcKenzie.python-package-manager-pro",
+  "bugs": {
+    "url": "https://github.com/akeemmckenzie/python-package-manager/issues"
+  },
   "activationEvents": [],
   "main": "./out/extension.js",
   "icon": "images/logo.png",
